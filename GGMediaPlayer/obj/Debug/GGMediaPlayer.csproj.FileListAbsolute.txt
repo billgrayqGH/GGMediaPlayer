@@ -1,0 +1,15 @@
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\bin\Debug\GGMediaPlayer.exe.config
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\bin\Debug\GGMediaPlayer.exe
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\bin\Debug\GGMediaPlayer.pdb
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\obj\Debug\GGMediaPlayer.csprojAssemblyReference.cache
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\obj\Debug\GGMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\obj\Debug\GGMediaPlayer.Form1.resources
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\obj\Debug\GGMediaPlayer.Properties.Resources.resources
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\obj\Debug\GGMediaPlayer.csproj.GenerateResource.cache
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\obj\Debug\GGMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\obj\Debug\GGMediaPlayer.exe
+C:\Users\xzeathri16\source\repos\GGMediaPlayer\GGMediaPlayer\obj\Debug\GGMediaPlayer.pdb
